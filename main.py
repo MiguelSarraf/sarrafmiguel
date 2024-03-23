@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit_modal import Modal
 from constantes import *
 
 if "page" not in st.session_state:
@@ -33,18 +34,30 @@ elif st.session_state.page=="textos":
 		st.sidebar.button("Experimentos com Chat-GPT")
 		]
 
-	for texto in textos:
-		img,txt=st.columns([1,2])
-		img.image("textos/%s.png"%(texto))
-		with open("textos/%s.txt"%(texto), "r") as linhas:
-			linhas=linhas.read().split("\n")
-			linha_1=linhas[:textos[texto]]
-			linhas=linhas[textos[texto]:]
-			for linha in linha_1:
-				txt.write(linha)
-			exp=st.expander("Continue lendo")
-			for linha in linhas:
-				exp.write(linha)
+	botoes=[]
+	modals=[]
+	proporcao=[2,1]
+	indice_img=False
+	alinhamento=["right", "left"]
+	for texto, titulo, linhas_vazias, url in textos:
+		cols=st.columns(proporcao)
+		cols[indice_img].image("textos/%s.png"%(texto))
+		modals.append(Modal(key=texto, title=titulo))
+		for _ in range(linhas_vazias):
+			cols[not indice_img].write("")
+		botoes.append(cols[not indice_img].button(key=texto, label='Leia completo aqui.'))
+		cols[not indice_img].link_button("Veja o original aqui.", url)
+		proporcao=proporcao[::-1]
+		alinhamento=alinhamento[::-1]
+		indice_img=not indice_img
+
+	if any(botoes):
+		indice=botoes.index(True)
+		with modals[indice].container():
+			with open("textos/%s.txt"%(textos[indice][0]), "r") as linhas:
+				linhas=linhas.read().split("\n")
+				for linha in linhas:
+					st.write(linha)
 
 	if abas[0]:
 		st.session_state.page="inicio"

@@ -1,5 +1,3 @@
-Formato mínimo
-
 Descartada toda abstração
 Proibida a reflexão
 Impedida a pessoalidade
