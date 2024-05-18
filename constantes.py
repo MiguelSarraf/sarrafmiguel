@@ -75,6 +75,9 @@ textos_gpt={
 }
 
 textos=[
+	# ("formato_minimo","Formato Mínimo",11,),
+	# ("meu_melhor_sorriso","Meu melhor Sorriso",11,),
+	("mataram_os_poetas","Mataram os poetas",11, "https://www.instagram.com/sarraf_miguel/p/C6bqvxyuVLM/"),
 	("ouroboros","Ouroboros",11, "https://www.instagram.com/p/C4c7SVHutD0/?igsh=MTM4OG56ZXBmYzB5cw=="),
 	("prova_de_carinho","Prova de carinho",8, "https://www.instagram.com/p/C3DXptvuSg6/?igsh=dTk0d2p2c3J5NThh"),
 	("fila_de_fosforos","Fila de fósforos",6, "https://www.instagram.com/p/C1r0sJ1OqD9/?igsh=NWIwM3JwcmYzd25i"),
