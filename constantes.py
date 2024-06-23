@@ -1,3 +1,18 @@
+textos=[
+	# ("formato_minimo","Formato Mínimo",11,),
+	("a_danca_dos_capelos", "A Dança dos Capelos", 11, "https://www.instagram.com/p/C8Zz54Ru1es/?igsh=MTM1bzMxa3MydGlkZA=="),
+	("meu_melhor_sorriso","Meu melhor Sorriso",11, "https://www.instagram.com/p/C71ySs3uQs5/?igsh=MXJ3cWo2cG0xYmh2NA=="),
+	("mataram_os_poetas","Mataram os poetas",11, "https://www.instagram.com/sarraf_miguel/p/C6bqvxyuVLM/"),
+	("ouroboros","Ouroboros",11, "https://www.instagram.com/p/C4c7SVHutD0/?igsh=MTM4OG56ZXBmYzB5cw=="),
+	("prova_de_carinho","Prova de carinho",8, "https://www.instagram.com/p/C3DXptvuSg6/?igsh=dTk0d2p2c3J5NThh"),
+	("fila_de_fosforos","Fila de fósforos",6, "https://www.instagram.com/p/C1r0sJ1OqD9/?igsh=NWIwM3JwcmYzd25i"),
+	("cais","Cais",12, "https://www.instagram.com/p/C0hJJqyulgf/?igsh=ZmU0M2FwcHppNWZx"),
+	("desventura_em_paralelo","Desventura em paralelo",12, "https://www.instagram.com/p/CzT8U7bukuu/?igsh=ZWZpdG16MXUzOTd6"),
+	("ja_nao_me_tange","",7, "https://www.instagram.com/p/Cx8ZPgSufei/?igsh=MWdwNzlidnB1dXk4dw=="),
+	("metro","Metrô",5, "https://www.instagram.com/p/Cwdw4CEOvWK/?igsh=eDl0bnJudnZucWQ4"),
+	("endemia","Endemia",7, "https://www.instagram.com/p/CvSoz0DuAZ3/?igsh=M3IycmIycHV5a2Ry"),
+]
+
 textos_gpt={
 	"Metrô":[
 		("Original", [
@@ -73,17 +88,3 @@ textos_gpt={
 		]),
 	]
 }
-
-textos=[
-	# ("formato_minimo","Formato Mínimo",11,),
-	# ("meu_melhor_sorriso","Meu melhor Sorriso",11,),
-	("mataram_os_poetas","Mataram os poetas",11, "https://www.instagram.com/sarraf_miguel/p/C6bqvxyuVLM/"),
-	("ouroboros","Ouroboros",11, "https://www.instagram.com/p/C4c7SVHutD0/?igsh=MTM4OG56ZXBmYzB5cw=="),
-	("prova_de_carinho","Prova de carinho",8, "https://www.instagram.com/p/C3DXptvuSg6/?igsh=dTk0d2p2c3J5NThh"),
-	("fila_de_fosforos","Fila de fósforos",6, "https://www.instagram.com/p/C1r0sJ1OqD9/?igsh=NWIwM3JwcmYzd25i"),
-	("cais","Cais",12, "https://www.instagram.com/p/C0hJJqyulgf/?igsh=ZmU0M2FwcHppNWZx"),
-	("desventura_em_paralelo","Desventura em paralelo",12, "https://www.instagram.com/p/CzT8U7bukuu/?igsh=ZWZpdG16MXUzOTd6"),
-	("ja_nao_me_tange","",7, "https://www.instagram.com/p/Cx8ZPgSufei/?igsh=MWdwNzlidnB1dXk4dw=="),
-	("metro","Metrô",5, "https://www.instagram.com/p/Cwdw4CEOvWK/?igsh=eDl0bnJudnZucWQ4"),
-	("endemia","Endemia",7, "https://www.instagram.com/p/CvSoz0DuAZ3/?igsh=M3IycmIycHV5a2Ry"),
-]
