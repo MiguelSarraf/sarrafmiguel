@@ -1,5 +1,6 @@
 textos=[
-	# ("formato_minimo","Formato Mínimo",11,),
+	# ("domingo_sol","domingo sol",11,),
+	("formato_minimo","Formato Mínimo",11,"https://www.instagram.com/p/C89_rG3Osvl/?igsh=cnQ2Zmkxdnd6cmU1"),
 	("a_danca_dos_capelos", "A Dança dos Capelos", 11, "https://www.instagram.com/p/C8Zz54Ru1es/?igsh=MTM1bzMxa3MydGlkZA=="),
 	("meu_melhor_sorriso","Meu melhor Sorriso",11, "https://www.instagram.com/p/C71ySs3uQs5/?igsh=MXJ3cWo2cG0xYmh2NA=="),
 	("mataram_os_poetas","Mataram os poetas",11, "https://www.instagram.com/sarraf_miguel/p/C6bqvxyuVLM/"),
