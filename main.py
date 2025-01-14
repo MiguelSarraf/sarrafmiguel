@@ -89,6 +89,9 @@ elif st.session_state.page=="chatgpt":
 		for linha in etapa[1]:
 			exp.write(linha)
 
+	if any(textos):
+		st.session_state.texto=list(textos_gpt.keys())[textos.index(True)]
+		st.rerun()
 	if abas[0]:
 		st.session_state.page="inicio"
 		st.rerun()
