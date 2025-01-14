@@ -1,5 +1,10 @@
 textos=[
-	# ("domingo_sol","domingo sol",11,),
+	("alissonancia","Alissonância",11,"https://www.instagram.com/p/DEk9jhOyGIR/?igsh=dWxqNDE2ZW1zbDZw"),
+	("metonimia","Metonímia",11,"https://www.instagram.com/p/DDK-liVSF5a/?igsh=MXdkOWx3NXQza2lkdA=="),
+	("antitese","Antítese",11,"https://www.instagram.com/p/DCX0wXUpOic/?igsh=MXZ5dTN2ZmNmZnphOQ=="),
+	("o_monstro","O Monstro",11,"https://www.instagram.com/p/DAoMCr4uowl/?igsh=MXQzaTRxcXIxMmllNQ=="),
+	("o_medico","O Médico",11,"https://www.instagram.com/p/C_gGhhwOKtQ/?igsh=bDZqZnExcmZ3N3Zx"),
+	("domingo_sol","domingo sol",11,"https://www.instagram.com/p/C-X-Phwu_PD/?igsh=MXQxdGw2cGE5eDBwaQ=="),
 	("formato_minimo","Formato Mínimo",11,"https://www.instagram.com/p/C89_rG3Osvl/?igsh=cnQ2Zmkxdnd6cmU1"),
 	("a_danca_dos_capelos", "A Dança dos Capelos", 11, "https://www.instagram.com/p/C8Zz54Ru1es/?igsh=MTM1bzMxa3MydGlkZA=="),
 	("meu_melhor_sorriso","Meu melhor Sorriso",11, "https://www.instagram.com/p/C71ySs3uQs5/?igsh=MXJ3cWo2cG0xYmh2NA=="),
