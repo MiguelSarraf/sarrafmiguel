@@ -1,4 +1,5 @@
 textos=[
+        ("samba_de_carnaval","Samba de Carnaval",11,"https://www.instagram.com/p/DG1HMGZSIHa/?igsh=c2NmYTBkZHhndXB3"),
 	("alissonancia","Alissonância",11,"https://www.instagram.com/p/DEk9jhOyGIR/?igsh=dWxqNDE2ZW1zbDZw"),
 	("metonimia","Metonímia",11,"https://www.instagram.com/p/DDK-liVSF5a/?igsh=MXdkOWx3NXQza2lkdA=="),
 	("antitese","Antítese",11,"https://www.instagram.com/p/DCX0wXUpOic/?igsh=MXZ5dTN2ZmNmZnphOQ=="),
