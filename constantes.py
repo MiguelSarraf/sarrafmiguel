@@ -1,4 +1,13 @@
 textos=[
+        ("canela-de-ema","Canela-de-ema",11,"https://www.instagram.com/p/DR9p0ncjgnP/?igsh=YWQwMDVmeTJ3amtl"),
+	("aliteracao","Aliteração (ou Sísifo)",11,"https://www.instagram.com/p/DQjZsrdjjcs/?igsh=NDczcnRqZ2pyNTcw"),
+	("interperies_modernas","Interpéries Modernas",11,"https://www.instagram.com/p/DPZNLCnjsU0/?igsh=MWoxa25uYmlhc3oxaw=="),
+	("disco","Disco",11,"https://www.instagram.com/p/DNJU6TypZwH/?igsh=bnV2cmtta245ZG4y"),
+	("{{}}","{{}}",11,"https://www.instagram.com/p/DLndhXYy5OB/?igsh=MWp5cTNmNGRwdmQzbQ=="),
+	("metonimia2","Metonímia",11,"https://www.instagram.com/p/DKfNV_-uDP9/?igsh=MWt6dXBua212ZmN0MA=="),
+	("oftalmologista","Oftalmologista",11,"https://www.instagram.com/p/DJXaauwyjEy/?igsh=MTBiZjRmcGdjcDNo"),
+	("trombeta_de_gabriel", "Trombeta de Gabriel", 11, "https://www.instagram.com/p/DH8wuotuFv6/?igsh=ZzdpOGVma3FiNWd5"),
+
         ("samba_de_carnaval","Samba de Carnaval",11,"https://www.instagram.com/p/DG1HMGZSIHa/?igsh=c2NmYTBkZHhndXB3"),
 	("alissonancia","Alissonância",11,"https://www.instagram.com/p/DEk9jhOyGIR/?igsh=dWxqNDE2ZW1zbDZw"),
 	("metonimia","Metonímia",11,"https://www.instagram.com/p/DDK-liVSF5a/?igsh=MXdkOWx3NXQza2lkdA=="),
